@@ -8,3 +8,6 @@
 * Uso de mais informações da api;
 * Responsividade com o bootstrap;
 * Adição da chave para acessar a api na interface da página.
+
+## Observação
+* a extensão do Chrome: Moesif Origin & CORS Changer, deve estar "On"
