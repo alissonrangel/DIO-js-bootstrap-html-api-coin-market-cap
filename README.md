@@ -10,7 +10,7 @@
 * Adição da chave para acessar a api na interface da página.
 
 ## Projeto no link:
-* [link para o projeto](https://app.netlify.com/sites/stupefied-neumann-24a706/settings/access)
+* [link para o projeto](https://stupefied-neumann-24a706.netlify.app/)
 
 ## Observação
 * a extensão do Chrome: Moesif Origin & CORS Changer, deve estar "On"
